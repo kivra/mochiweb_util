@@ -9,6 +9,7 @@
                  ]},
   {env, []},
   {modules, []},
+  {pkg_name,    "mochiweb_util"},
   {maintainers, ["kivra"]},
   {licenses,    ["MIT"]},
   {links,       [{"GitHub", "https://github.com/kivra/mochiweb_util"}]}
