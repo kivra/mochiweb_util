@@ -1,16 +1,16 @@
 {application, mochiweb_util,
  [
-  {description, ""},
-  {vsn, "0.1.0"},
-  {registered, []},
+  {description,  "Mochiweb util"},
+  {vsn,          "0.1.0"},
+  {registered,   []},
   {applications, [
                   kernel,
                   stdlib
                  ]},
-  {env, []},
-  {modules, []},
-  {pkg_name,    "mochiweb_util"},
-  {maintainers, ["kivra"]},
-  {licenses,    ["MIT"]},
-  {links,       [{"GitHub", "https://github.com/kivra/mochiweb_util"}]}
+  {env,          []},
+  {modules,      []},
+  {pkg_name,     "mochiweb_util"},
+  {maintainers,  ["kivra"]},
+  {licenses,     ["MIT"]},
+  {links,        [{"GitHub", "https://github.com/kivra/mochiweb_util"}]}
  ]}.
